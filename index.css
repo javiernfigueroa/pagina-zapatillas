@@ -101,6 +101,7 @@ header,
 
 .container {
   width: 90%;
+  max-width: 800px;
   margin: 0 auto;
   border: 2px solid red;
 }
@@ -116,7 +117,7 @@ header,
 }
 
 .feature-image {
-  width: 50%;
+  width: 48.8%;
   border-radius: 4.6px;
 }
 
